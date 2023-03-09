@@ -1,6 +1,6 @@
-# WEATHER-STATION-ARUDUIONO :
+# WEATHER-STATION-ARDUINO :
 
-The weather station is an IOT project that collects the following data related to the weather and environment using different sensors on an aruduiono board :
+The weather station is an IOT project that collects the following data related to the weather and environment using different sensors on an arduino board :
 
 ### REQUIRED SENSORS:
 - Temperature & Humidity : ```DHT22 SENSOR```<br><img src="https://hackster.imgix.net/uploads/attachments/194717/FGRE2J4IOXJ1IHX.LARGE.jpg?auto=compress%2Cformat&w=740&h=555&fit=max" alt="image" width="200"/>
@@ -14,7 +14,7 @@ The weather station is an IOT project that collects the following data related t
 - The aim is to make a small and simple weather station, using open hardware.
 
 ### OTHER REQUIRED COMPONENTS :
-- ```Aruduiono Uno Board```<br><img src="https://robosynckits.in/wp-content/uploads/2020/12/arduino-uno-r3-pic3.jpg" alt="image"/>
+- ```Arduino Uno Board```<br><img src="https://robosynckits.in/wp-content/uploads/2020/12/arduino-uno-r3-pic3.jpg" alt="image"/>
 - ```Arduino Uno Proto Shield```<br><img src="https://m.media-amazon.com/images/I/618RJG9qLxL._SL1000_.jpg" alt="image" width="300"/>
 - ```Jumper Wires```<br><img src="https://www.flyrobo.in/image/cache/catalog/product/20cm-male-to-female-jumper-cable-wire-for-arduino-10pcs-600x600.jpg" alt="image" width="200"/><br>
 
@@ -31,4 +31,4 @@ The weather station is an IOT project that collects the following data related t
   - [Adafruit BMP085 library](https://github.com/adafruit/Adafruit-BMP085-Library)
   - Then work with the code uploaded in the drive.
 
-- For further insights, please refer to the attached [PPT](https://github.com/smsraj2001/WEATHER-STATION-ARUDUIONO/blob/main/SENSORS_BOARD_DESCRIPTION.pdf)
+- For further insights, please refer to the attached [PPT](https://github.com/smsraj2001/WEATHER-STATION-ARDUINO/blob/main/SENSORS_BOARD_DESCRIPTION.pdf)
