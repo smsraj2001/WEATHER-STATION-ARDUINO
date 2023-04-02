@@ -14,9 +14,9 @@ The weather station is an IOT project that collects the following data related t
 - The aim is to make a small and simple weather station, using open hardware.
 
 ### OTHER REQUIRED COMPONENTS :
-- ```Arduino Uno Board```<br><img src="https://robosynckits.in/wp-content/uploads/2020/12/arduino-uno-r3-pic3.jpg" alt="image"/>
+- ```Arduino Uno Board```<br><img src="https://static.wixstatic.com/media/b29d1d_39f700190172453ebda2408b96e67879~mv2.jpg/v1/fill/w_500,h_350,al_c,q_85/b29d1d_39f700190172453ebda2408b96e67879~mv2.jpg" alt="image" width="300" />
 - ```Arduino Uno Proto Shield```<br><img src="https://m.media-amazon.com/images/I/618RJG9qLxL._SL1000_.jpg" alt="image" width="300"/>
-- ```Jumper Wires```<br><img src="https://www.flyrobo.in/image/cache/catalog/product/20cm-male-to-female-jumper-cable-wire-for-arduino-10pcs-600x600.jpg" alt="image" width="200"/><br>
+- ```Jumper Wires```<br><img src="https://www.flyrobo.in/image/cache/catalog/product/20cm-male-to-female-jumper-cable-wire-for-arduino-10pcs-600x600.jpg" alt="image" width="300"/><br>
 
 ### WORKING OF THE PROJECT :
 - The circuit is powered by the USB port (connected to a computer or a ordinary phone charger), but you may also add an external DC power supply or a battery connected to the Arduino power jack.
